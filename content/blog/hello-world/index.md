@@ -1,6 +1,7 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+date: "2019-04-07T17:47:03.284Z"
+description: Just the first blog post, nothing fancy
 ---
 
 This is my first post on my new fake blog! How exciting!
