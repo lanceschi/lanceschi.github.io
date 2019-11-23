@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+//import {TagsList} from '../components/taglist'
 import { rhythm, scale } from "../utils/typography"
 
 class BlogPostTemplate extends React.Component {
@@ -29,6 +30,8 @@ class BlogPostTemplate extends React.Component {
         >
           {post.frontmatter.date}
         </p>
+        {/*<TagsList tags={post.frontmatter.tags} />*/}
+        
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
@@ -82,6 +85,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        tags
         date(formatString: "MMMM DD, YYYY")
         description
       }

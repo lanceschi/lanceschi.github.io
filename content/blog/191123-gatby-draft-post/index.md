@@ -2,6 +2,7 @@
 title: Draft post support in Gatsby how to
 date: "2019-11-23T17:47:03.284Z"
 description: Adding draft post support to Gatsby starter blog how to
+tags: ["javascript"]
 ---
 
 [GatsbyJS][GatsbyJS-site] together with [Gatsby starter blog][gatsby-starter-blog] represent a marvellous publishing tool. It does definetely lack though the *out-of-the-box* capability of managing and filtering-out blog post with an user defined *draft* status.
@@ -36,7 +37,8 @@ module.exports = {
 ```
 
 
-<br /><br />
+<br />
+
 As a reference, you'll find the original [Janosh Riebesell][janosh-site] post [here][janosh-post]
 
 
