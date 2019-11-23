@@ -38,7 +38,7 @@ function Bio() {
               }}
             />
             <p>
-              Written with ❤️ by <strong>{author}</strong><br />
+              Written with <span role="img" aria-label="heart">❤️</span> by <strong>{author}</strong><br />
               <a href={`https://twitter.com/${social.twitter}`} target="_blank">
                 Follow him on Twitter
               </a>
