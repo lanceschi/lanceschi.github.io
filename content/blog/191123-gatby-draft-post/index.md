@@ -1,5 +1,5 @@
 ---
-title: Draft post support in Gatsby How to
+title: Draft post support in Gatsby how to
 date: "2019-11-23T17:47:03.284Z"
 description: Adding draft post support to Gatsby starter blog how to
 ---
