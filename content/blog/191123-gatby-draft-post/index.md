@@ -36,7 +36,7 @@ module.exports = {
 ```
 
 
-
+<br />
 As a reference, you'll find the original [Janosh Riebesell][janosh-site] post [here][janosh-post]
 
 
