@@ -1,42 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Yo Man!]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 23 Nov 2019 12:57:13 GMT</lastBuildDate><item><title><![CDATA[PyEnv Simple Python version management]]></title><description><![CDATA[PyEnv is a simple python version management It reminds me of NVM for node and RVM for ruby. Install you can set a file when switching to a…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/190518-python-package-manager/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/190518-python-package-manager/</guid><pubDate>Sat, 18 May 2019 22:47:03 GMT</pubDate><content:encoded>&lt;p&gt;PyEnv is a simple python version management&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Yo Man!]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 23 Nov 2019 13:11:54 GMT</lastBuildDate><item><title><![CDATA[PyEnv Simple Python version management]]></title><description><![CDATA[PyEnv is a simple python version management It reminds me of NVM for node and RVM for ruby. Install you can set a file when switching to a…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/190518-python-package-manager/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/190518-python-package-manager/</guid><pubDate>Sat, 18 May 2019 22:47:03 GMT</pubDate><content:encoded>&lt;p&gt;PyEnv is a simple python version management&lt;/p&gt;
 &lt;p&gt;It reminds me of NVM for node and RVM for ruby.&lt;/p&gt;
 &lt;h1&gt;Install&lt;/h1&gt;
 &lt;p&gt;you can set a file when switching to a folder in order to activate the pre-selected environemnt&lt;/p&gt;
 &lt;p&gt;Works well with pip and (ana)conda&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/pyenv/pyenv&quot;&gt;https://github.com/pyenv/pyenv&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Machine Learning Model Categories]]></title><description><![CDATA[Supervised learning vs Unsupervised learning Supervised learning More accurate Labeled data required Requires human in the loop Unsupervised…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/190512-ml-learning-models/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/190512-ml-learning-models/</guid><pubDate>Sun, 12 May 2019 22:47:03 GMT</pubDate><content:encoded>&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;a href=&quot;https://github.com/pyenv/pyenv&quot;&gt;https://github.com/pyenv/pyenv&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Machine Learning Model Categories]]></title><description><![CDATA[Supervised learning vs Unsupervised learning Supervised learning More accurate Labeled data required Requires human in the loop Unsupervised…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/190512-ml-learning-models/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/190512-ml-learning-models/</guid><pubDate>Sun, 12 May 2019 22:47:03 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/4fe462fcbde107a50dda9774e23a3df4/7d695/chart.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 69.10039113428944%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB2liFD//EABcQAAMBAAAAAAAAAAAAAAAAAAAQEQH/2gAIAQEAAQUC1xQ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFxAAAwEAAAAAAAAAAAAAAAAAACAxof/aAAgBAQAGPwIulT//xAAeEAACAQMFAAAAAAAAAAAAAAAAAREhMWFBUXGBkf/aAAgBAQABPyGp633gjIOlm9JV5Gm8djZn/9oADAMBAAIAAwAAABDDz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQEAAwADAQAAAAAAAAAAAAERACExQVHB4f/aAAgBAQABPxBKNoRDlkI9zxhWG0XdYDA9TRnzKXs9PxkLmibbn//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 69.10039113428944%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB2liFD//EABcQAAMBAAAAAAAAAAAAAAAAAAAQEQH/2gAIAQEAAQUC1xQ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFxAAAwEAAAAAAAAAAAAAAAAAACAxof/aAAgBAQAGPwIulT//xAAeEAACAQMFAAAAAAAAAAAAAAAAAREhMWFBUXGBkf/aAAgBAQABPyGp633gjIOlm9JV5Gm8djZn/9oADAMBAAIAAwAAABDDz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQEAAwADAQAAAAAAAAAAAAERACExQVHB4f/aAAgBAQABPxBKNoRDlkI9zxhWG0XdYDA9TRnzKXs9PxkLmibbn//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Chinese Salty Egg&quot;
-        title=&quot;&quot;
+        title=&quot;Chinese Salty Egg&quot;
         src=&quot;/static/4fe462fcbde107a50dda9774e23a3df4/c739e/chart.jpg&quot;
         srcset=&quot;/static/4fe462fcbde107a50dda9774e23a3df4/8ee9c/chart.jpg 148w,
 /static/4fe462fcbde107a50dda9774e23a3df4/ebbe7/chart.jpg 295w,
 /static/4fe462fcbde107a50dda9774e23a3df4/c739e/chart.jpg 590w,
 /static/4fe462fcbde107a50dda9774e23a3df4/7d695/chart.jpg 767w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h1&gt;Supervised learning vs Unsupervised learning&lt;/h1&gt;
 &lt;h2&gt;Supervised learning&lt;/h2&gt;
 &lt;ul&gt;
