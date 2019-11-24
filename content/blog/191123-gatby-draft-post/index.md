@@ -19,6 +19,7 @@ Basically it rules out from production build all those filenames with a `draft-`
 
 Here you'll find an excerpt of an edited `gatsby-config.js`:
 
+
 ```javascript
 module.exports = {
 
