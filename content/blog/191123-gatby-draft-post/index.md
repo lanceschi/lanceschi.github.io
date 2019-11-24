@@ -2,7 +2,7 @@
 title: Draft post support in Gatsby how to
 date: "2019-11-23T17:47:03.284Z"
 description: Adding draft post support to Gatsby starter blog how to
-tags: ["javascript"]
+tags: ["how-to", "javascript"]
 ---
 
 [GatsbyJS][GatsbyJS-site] together with [Gatsby starter blog][gatsby-starter-blog] represent a marvellous publishing tool. It does definetely lack though the *out-of-the-box* capability of managing and filtering-out blog post with an user defined *draft* status.
@@ -18,7 +18,6 @@ ignore: process.env.NODE_ENV === `production` && [`**/draft-*`]
 Basically it rules out from production build all those filenames with a `draft-` prefix.
 
 Here you'll find an excerpt of an edited `gatsby-config.js`:
-
 
 ```javascript
 module.exports = {
@@ -40,7 +39,7 @@ module.exports = {
 
 <br />
 
-As a reference, you'll find the original [Janosh Riebesell][janosh-site] post [here][janosh-post]
+As a reference, you'll find the original [Janosh Riebesell][janosh-site] post [here][janosh-post] with additional info.
 
 
 [GatsbyJS-site]: https://www.gatsbyjs.org/
