@@ -1,7 +1,18 @@
 {
-  "endOfLine": "lf",
-  "semi": false,
-  "singleQuote": false,
+  "bracketSpacing": true,
+  "useTabs": false,
   "tabWidth": 2,
-  "trailingComma": "es5"
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "endOfLine": "lf",
+  "overrides": [
+    {
+      "files": ["config/**/*.json*"],
+      "options": {
+        "singleQuote": false,
+        "quoteProps": "preserve"
+      }
+    }
+  ]
 }
